@@ -579,3 +579,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.21-18.57.59:844][679]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.050
 [2019.05.21-18.59.06:936][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2019.05.21-18.59.07:766][205]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.21-19.10.02:330][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
