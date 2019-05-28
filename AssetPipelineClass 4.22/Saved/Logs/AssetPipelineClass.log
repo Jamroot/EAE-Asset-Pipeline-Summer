@@ -705,3 +705,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.28-01.47.29:226][198]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/whiteBox_Buildings_Auto4299AF663419A353D1A86A8A1FEF4E3C8.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Autosaves/Game/whiteBox_Buildings_Auto4.umap'
 [2019.05.28-01.47.29:240][198]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/whiteBox_Buildings' took 3.581
 [2019.05.28-01.47.29:240][198]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.581
+[2019.05.28-01.59.21:360][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
