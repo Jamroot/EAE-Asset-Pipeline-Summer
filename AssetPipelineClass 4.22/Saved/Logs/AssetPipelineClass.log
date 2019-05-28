@@ -688,3 +688,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.28-00.51.50:859][865]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/whiteBox_Buildings' took 3.670
 [2019.05.28-00.51.50:860][865]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.670
 [2019.05.28-00.56.35:511][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-01.38.37:813][408]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-01.39.38:552][932]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-01.44.22:116][930]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.28-01.44.32:912][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-01.46.51:281][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-01.46.51:653][634]LogActorFactory: Actor Factory created Curveblock
+[2019.05.28-01.46.52:328][671]LogActorFactory: Actor Factory created Curveblock
+[2019.05.28-01.46.56:984][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Curveblock)
+[2019.05.28-01.46.59:912][ 98]Cmd: DELETE
+[2019.05.28-01.46.59:912][ 98]Cmd: ACTOR DELETE
+[2019.05.28-01.46.59:984][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.28-01.47.00:100][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2019.05.28-01.47.00:101][ 98]LogEditorActor: Deleted 1 Actors (0.189 secs)
+[2019.05.28-01.47.25:701][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.05.28-01.47.29:226][198]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/whiteBox_Buildings_Auto4299AF663419A353D1A86A8A1FEF4E3C8.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Autosaves/Game/whiteBox_Buildings_Auto4.umap'
+[2019.05.28-01.47.29:240][198]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/whiteBox_Buildings' took 3.581
+[2019.05.28-01.47.29:240][198]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.581
