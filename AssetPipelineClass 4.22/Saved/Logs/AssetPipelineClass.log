@@ -745,3 +745,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.28-02.00.24:895][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
 [2019.05.28-02.00.24:896][454]LogEditorActor: Deleted 1 Actors (0.076 secs)
 [2019.05.28-02.00.27:367][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-02.02.46:823][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-02.02.47:044][206]LogActorFactory: Actor Factory created Arch
+[2019.05.28-02.02.47:931][258]LogActorFactory: Actor Factory created Arch
+[2019.05.28-02.02.49:290][337]Cmd: DELETE
+[2019.05.28-02.02.49:290][337]Cmd: ACTOR DELETE
+[2019.05.28-02.02.49:342][337]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.28-02.02.49:363][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.05.28-02.02.49:364][337]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2019.05.28-02.02.51:930][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-02.02.54:301][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.05.28-02.02.56:090][616]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.28-02.02.56:177][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.05.28-02.02.56:204][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.05.28-02.02.56:226][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
