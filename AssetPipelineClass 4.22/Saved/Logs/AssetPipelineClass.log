@@ -1,0 +1,707 @@
+﻿Log file open, 05/27/19 14:53:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: AssetPipelineClass
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.466113
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Applications/Unreal/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.27-20.53.03:257][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.27-20.53.03:257][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.27-20.53.03:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.27-20.53.03:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.27-20.53.03:258][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.27-20.53.03:261][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-20.53.03:261][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.27-20.53.03:261][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.27-20.53.03:261][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-20.53.03:261][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.27-20.53.03:261][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-20.53.03:261][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.27-20.53.03:261][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.27-20.53.03:261][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.27-20.53.03:261][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.27-20.53.03:261][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.27-20.53.03:261][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.27-20.53.03:261][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.27-20.53.03:261][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.27-20.53.03:261][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.27-20.53.03:261][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.27-20.53.03:261][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.27-20.53.03:262][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.27-20.53.03:262][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.27-20.53.03:262][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.27-20.53.03:273][  0]LogHAL: Display: Platform has ~ 16 GB [16964153344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.05.27-20.53.03:273][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.27-20.53.03:273][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.27-20.53.03:273][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.05.27-20.53.03:274][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.27-20.53.03:274][  0]LogInit: Computer: DESKTOP-254KSUS
+[2019.05.27-20.53.03:274][  0]LogInit: User: jamro
+[2019.05.27-20.53.03:274][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.05.27-20.53.03:274][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.27-20.53.03:275][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.05.27-20.53.03:275][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.27-20.53.03:275][  0]LogMemory: Process Physical Memory: 96.76 MB used, 96.77 MB peak
+[2019.05.27-20.53.03:275][  0]LogMemory: Process Virtual Memory: 89.91 MB used, 89.91 MB peak
+[2019.05.27-20.53.03:275][  0]LogMemory: Physical Memory: 8139.15 MB used,  8039.13 MB free, 16178.28 MB total
+[2019.05.27-20.53.03:275][  0]LogMemory: Virtual Memory: 4674.62 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.05.27-20.53.03:453][  0]LogInit: Using OS detected language (en-US).
+[2019.05.27-20.53.03:453][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.27-20.53.03:456][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.27-20.53.03:581][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.27-20.53.03:638][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.27-20.53.03:638][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.27-20.53.03:864][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.27-20.53.03:864][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.27-20.53.03:979][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2019.05.27-20.53.03:979][  0]LogD3D11RHI:       6052/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.27-20.53.04:059][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.05.27-20.53.04:059][  0]LogD3D11RHI:       128/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.27-20.53.04:062][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.27-20.53.04:062][  0]LogD3D11RHI:       0/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.27-20.53.04:062][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.27-20.53.04:089][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.27-20.53.04:089][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.27-20.53.04:089][  0]LogWindows: EnumDisplayDevices:
+[2019.05.27-20.53.04:090][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.05.27-20.53.04:090][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.27-20.53.04:091][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.27-20.53.04:091][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2019.05.27-20.53.04:091][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.05.27-20.53.04:091][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2019.05.27-20.53.04:091][  0]LogD3D11RHI:   Driver Version: 416.94 (internal:25.21.14.1694, unified:416.94)
+[2019.05.27-20.53.04:091][  0]LogD3D11RHI:      Driver Date: 11-12-2018
+[2019.05.27-20.53.04:091][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.05.27-20.53.04:130][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.27-20.53.04:133][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.27-20.53.04:133][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.27-20.53.04:133][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.27-20.53.04:147][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.27-20.53.04:547][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.05.27-20.53.04:574][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.05.27-20.53.04:599][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.05.27-20.53.04:626][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.05.27-20.53.04:653][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.05.27-20.53.04:679][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.05.27-20.53.04:705][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.05.27-20.53.04:731][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.05.27-20.53.04:751][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.05.27-20.53.04:828][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.05.27-20.53.04:828][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.05.27-20.53.04:828][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.05.27-20.53.04:828][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.05.27-20.53.04:828][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.05.27-20.53.04:828][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.05.27-20.53.04:828][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.05.27-20.53.04:828][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.05.27-20.53.04:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.05.27-20.53.04:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.05.27-20.53.04:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.05.27-20.53.04:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.05.27-20.53.04:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.05.27-20.53.04:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.05.27-20.53.04:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.05.27-20.53.04:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.05.27-20.53.04:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.05.27-20.53.04:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.05.27-20.53.04:840][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.05.27-20.53.04:918][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.05.27-20.53.04:918][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.05.27-20.53.04:949][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.05.27-20.53.04:949][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.05.27-20.53.04:969][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.05.27-20.53.04:990][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.05.27-20.53.05:011][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.05.27-20.53.05:033][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.05.27-20.53.05:080][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.05.27-20.53.05:080][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.05.27-20.53.05:080][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.27-20.53.05:144][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.05.27-20.53.05:482][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Intermediate/Shaders/WorkingDirectory/3404/).
+[2019.05.27-20.53.05:483][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jamro/AppData/Local/Temp/UnrealShaderWorkingDir/AF9A752C492AB5B84B1B02BC2BC0DF50/'.
+[2019.05.27-20.53.05:489][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.27-20.53.05:489][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.27-20.53.05:489][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.27-20.53.06:000][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.27-20.53.06:042][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/jamro/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.27-20.53.06:042][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jamro/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.05.27-20.53.06:042][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.27-20.53.06:042][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.27-20.53.06:042][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.27-20.53.06:042][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.27-20.53.06:053][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.27-20.53.06:053][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.27-20.53.06:053][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.27-20.53.06:065][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jamro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.27-20.53.06:065][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.27-20.53.06:065][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.27-20.53.06:083][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.27-20.53.06:084][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.27-20.53.06:084][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.27-20.53.06:212][  0]LogAssetRegistry: FAssetRegistry took 0.0318 seconds to start up
+[2019.05.27-20.53.06:474][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.27-20.53.06:815][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.27-20.53.06:816][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.05.27-20.53.06:816][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.27-20.53.06:816][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.05.27-20.53.06:816][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.05.27-20.53.06:828][  0]LogNetVersion: AssetPipelineClass 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1118225716)
+[2019.05.27-20.53.07:236][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.048158 seconds
+[2019.05.27-20.53.07:240][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.05.27-20.53.07:240][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.05.27-20.53.07:240][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.27-20.53.09:137][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.27-20.53.09:164][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.27-20.53.09:468][  0]SourceControl: Source control is disabled
+[2019.05.27-20.53.09:468][  0]SourceControl: Source control is disabled
+[2019.05.27-20.53.09:501][  0]SourceControl: Source control is disabled
+[2019.05.27-20.53.09:516][  0]SourceControl: Source control is disabled
+[2019.05.27-20.53.10:113][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.27-20.53.10:377][  0]LogOcInput: OculusInput pre-init called
+[2019.05.27-20.53.11:851][  0]LogEngine: Initializing Engine...
+[2019.05.27-20.53.11:852][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.27-20.53.11:852][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.05.27-20.53.12:027][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.27-20.53.12:062][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.27-20.53.12:106][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-20.53.12:753][  0]LogInit: FAudioDevice initialized.
+[2019.05.27-20.53.12:753][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.27-20.53.12:909][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/jamro/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.27-20.53.12:919][  0]LogInit: Texture streaming: Enabled
+[2019.05.27-20.53.12:989][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.27-20.53.13:041][  0]LogInit: Transaction tracking system initialized
+[2019.05.27-20.53.13:142][  0]BlueprintLog: New page: Editor Load
+[2019.05.27-20.53.13:620][  0]LocalizationService: Localization service is disabled
+[2019.05.27-20.53.14:129][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Content/' took 0.02s
+[2019.05.27-20.53.14:129][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.27-20.53.14:129][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.27-20.53.14:755][  0]SourceControl: Source control is disabled
+[2019.05.27-20.53.14:755][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.27-20.53.14:756][  0]LightingResults: New page: Lighting Build
+[2019.05.27-20.53.14:761][  0]MapCheck: New page: Map Check
+[2019.05.27-20.53.14:761][  0]LightingResults: New page: Lighting Build
+[2019.05.27-20.53.14:791][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.05.27-20.53.14:859][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.05.27-20.53.14:862][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.27-20.53.14:889][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.05.27-20.53.14:889][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.27-20.53.14:889][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2019.05.27-20.53.14:889][  0]LogFileHelpers: Loading map 'Template_Default' took 0.135
+[2019.05.27-20.53.15:048][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-20.53.15:058][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-20.53.15:064][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-20.53.15:069][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-20.53.15:097][  0]LogCollectionManager: Loaded 0 collections in 0.005878 seconds
+[2019.05.27-20.53.15:117][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Collections/' took 0.01s
+[2019.05.27-20.53.15:117][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Content/Developers/jamro/Collections/' took 0.00s
+[2019.05.27-20.53.15:117][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Content/Collections/' took 0.00s
+[2019.05.27-20.53.15:117][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.27-20.53.15:124][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2732 classes and 659 folders.
+[2019.05.27-20.53.15:137][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.27-20.53.15:266][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:289][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:316][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:392][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:410][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:425][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:438][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:487][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:498][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:525][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:538][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:574][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:598][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:612][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.15:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-20.53.17:311][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.27-20.53.17:385][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.05.27-20.53.17:397][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.27-20.53.17:399][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.27-20.53.17:441][  0]LogSlate: Took 0.025404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.27-20.53.17:744][  0]LogRenderer: Reallocating scene render targets to support 904x436 Format 10 NumSamples 1 (Frame:1).
+[2019.05.27-20.53.17:957][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.27-20.53.17:957][  0]LogLoad: (Engine Initialization) Total time: 19.93 seconds
+[2019.05.27-20.53.17:957][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.27-20.53.18:000][  0]LogAssetRegistry: Asset discovery search completed in 11.8102 seconds
+[2019.05.27-20.53.18:002][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.27-20.53.18:002][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2019.05.27-20.53.18:004][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.27-20.53.18:043][  0]LogSlate: Took 0.026330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.27-20.54.49:571][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-20.54.51:392][460]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.27-20.54.52:342][460]LogAIModule: Creating AISystem for world whiteBox_Buildings
+[2019.05.27-20.54.52:500][460]LogAssetEditorManager: Opening Asset editor for World /Game/whiteBox_Buildings.whiteBox_Buildings
+[2019.05.27-20.54.52:533][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.05.27-20.54.52:534][460]Cmd: MAP LOAD FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Content/whiteBox_Buildings.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.27-20.54.52:534][460]LightingResults: New page: Lighting Build
+[2019.05.27-20.54.52:534][460]LoadErrors: New page: Loading map: whiteBox_Buildings.umap
+[2019.05.27-20.54.52:535][460]MapCheck: New page: Map Check
+[2019.05.27-20.54.52:535][460]LightingResults: New page: Lighting Build
+[2019.05.27-20.54.52:562][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.05.27-20.54.52:606][460]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.27-20.54.52:747][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.05.27-20.54.52:766][460]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.27-20.54.52:766][460]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.398ms to complete.
+[2019.05.27-20.54.52:766][460]LogFileHelpers: Loading map 'whiteBox_Buildings' took 0.233
+[2019.05.27-20.54.59:193][826]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-21.57.40:831][596]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-21.57.51:196][119]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-21.58.01:836][632]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-21.58.06:053][825]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-21.58.08:778][923]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-21.58.19:926][443]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-21.58.24:152][633]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-21.59.01:101][778]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-21.59.01:188][778]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.05.27-21.59.04:383][778]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/whiteBox_Buildings_Auto1387E0A9247C272F63BAFBC9A911F007C.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Autosaves/Game/whiteBox_Buildings_Auto1.umap'
+[2019.05.27-21.59.04:395][778]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/whiteBox_Buildings' took 3.277
+[2019.05.27-21.59.04:395][778]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.277
+[2019.05.27-22.14.58:684][527]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.15.12:751][371]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.15.20:666][678]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.15.26:980][885]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.15.35:902][160]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.15.50:121][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-22.16.00:735][283]LogEditorViewport: Clicking on Actor (LMB): Brush (wb_castleWall111)
+[2019.05.27-22.16.01:693][338]Cmd: DELETE
+[2019.05.27-22.16.01:693][338]Cmd: ACTOR DELETE
+[2019.05.27-22.16.02:079][338]LogEditorActor: Deleted Actor: Brush
+[2019.05.27-22.16.02:185][338]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.05.27-22.16.02:765][338]LogEditorActor: Deleted 1 Actors (0.746 secs)
+[2019.05.27-22.16.04:939][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-22.16.17:459][ 99]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.16.25:585][499]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.16.44:952][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-22.16.50:002][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-22.17.03:902][486]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.17.10:548][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-22.17.11:019][910]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.17.14:103][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-22.17.18:640][282]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.17.21:346][442]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.17.34:638][885]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.17.43:660][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-22.17.43:852][254]LogActorFactory: Actor Factory created Curveblock
+[2019.05.27-22.17.45:739][366]LogActorFactory: Actor Factory created Curveblock
+[2019.05.27-22.17.52:412][749]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.17.59:236][158]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.18.02:019][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-22.18.04:036][445]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.18.11:836][912]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.18.17:163][180]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-22.18.29:059][330]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.18.33:049][569]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.18.35:872][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Curveblock)
+[2019.05.27-22.18.37:792][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-22.18.43:392][181]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.18.52:071][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Curveblock)
+[2019.05.27-22.18.55:511][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Curveblock)
+[2019.05.27-22.19.04:787][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-22.19.10:549][676]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.19.13:233][837]Cmd: TRANSACTION UNDO
+[2019.05.27-22.19.13:233][837]LogEditorTransaction: Undo Move Actors
+[2019.05.27-22.19.14:276][837]Cmd: TRANSACTION UNDO
+[2019.05.27-22.19.14:276][837]LogEditorTransaction: Undo Rotate Actors
+[2019.05.27-22.19.17:515][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Curveblock)
+[2019.05.27-22.19.26:023][461]Cmd: TRANSACTION UNDO
+[2019.05.27-22.19.26:023][461]LogEditorTransaction: Undo Scale Actors
+[2019.05.27-22.19.30:413][723]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.19.36:936][114]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.19.42:403][442]Cmd: DELETE
+[2019.05.27-22.19.42:403][442]Cmd: ACTOR DELETE
+[2019.05.27-22.19.42:463][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.27-22.19.42:599][442]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.05.27-22.19.42:600][442]LogEditorActor: Deleted 1 Actors (0.198 secs)
+[2019.05.27-22.19.45:138][589]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.19.47:638][739]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.19.52:054][920]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.19.53:504][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-22.20.07:332][489]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.20.19:183][114]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.20.26:057][352]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.21.06:167][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.05.27-22.21.09:481][ 21]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/whiteBox_Buildings_Auto2B456E21845A317677DBBD895A341870E.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Autosaves/Game/whiteBox_Buildings_Auto2.umap'
+[2019.05.27-22.21.09:487][ 21]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/whiteBox_Buildings' took 3.423
+[2019.05.27-22.21.09:487][ 21]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.423
+[2019.05.27-22.21.10:706][ 91]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-22.22.08:666][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-00.49.55:250][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-00.50.02:612][774]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.28-00.50.16:540][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-00.50.24:198][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-00.50.31:006][366]Cmd: DELETE
+[2019.05.28-00.50.31:006][366]Cmd: ACTOR DELETE
+[2019.05.28-00.50.31:063][366]LogEditorActor: Deleted Actor: Brush
+[2019.05.28-00.50.31:108][366]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.05.28-00.50.31:700][366]LogEditorActor: Deleted 1 Actors (0.694 secs)
+[2019.05.28-00.50.33:033][421]Cmd: DELETE
+[2019.05.28-00.50.33:034][421]Cmd: ACTOR DELETE
+[2019.05.28-00.50.33:089][421]LogEditorActor: Deleted Actor: Brush
+[2019.05.28-00.50.33:122][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.05.28-00.50.33:715][421]LogEditorActor: Deleted 1 Actors (0.680 secs)
+[2019.05.28-00.50.35:901][522]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.28-00.50.48:598][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-00.50.50:119][274]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.28-00.50.54:207][434]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.28-00.50.56:651][578]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.28-00.51.20:890][703]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.28-00.51.47:274][865]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.05.28-00.51.50:849][865]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/whiteBox_Buildings_Auto3E5D30CCF4598B94571F3BBBEF8B1EE60.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Autosaves/Game/whiteBox_Buildings_Auto3.umap'
+[2019.05.28-00.51.50:859][865]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/whiteBox_Buildings' took 3.670
+[2019.05.28-00.51.50:860][865]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.670
+[2019.05.28-00.56.35:511][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-01.38.37:813][408]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-01.39.38:552][932]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-01.44.22:116][930]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.28-01.44.32:912][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-01.46.51:281][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-01.46.51:653][634]LogActorFactory: Actor Factory created Curveblock
+[2019.05.28-01.46.52:328][671]LogActorFactory: Actor Factory created Curveblock
+[2019.05.28-01.46.56:984][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Curveblock)
+[2019.05.28-01.46.59:912][ 98]Cmd: DELETE
+[2019.05.28-01.46.59:912][ 98]Cmd: ACTOR DELETE
+[2019.05.28-01.46.59:984][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.28-01.47.00:100][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2019.05.28-01.47.00:101][ 98]LogEditorActor: Deleted 1 Actors (0.189 secs)
+[2019.05.28-01.47.25:701][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.05.28-01.47.29:226][198]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/whiteBox_Buildings_Auto4299AF663419A353D1A86A8A1FEF4E3C8.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/AssetPipelineClass 4.22/Saved/Autosaves/Game/whiteBox_Buildings_Auto4.umap'
+[2019.05.28-01.47.29:240][198]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/whiteBox_Buildings' took 3.581
+[2019.05.28-01.47.29:240][198]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.581
