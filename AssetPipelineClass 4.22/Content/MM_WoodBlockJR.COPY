@@ -1,0 +1,201 @@
+Begin Object Class=/Script/Engine.Material Name="MM_WoodBlockJR"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.315104,G=0.157692,B=0.037655,A=0.000000)
+      ParameterName="Wood_Color"
+      ExpressionGUID=DF95B9704E021260CB5AC89A14C7BAB5
+      Group="Texturing"
+      MaterialExpressionEditorX=96
+      MaterialExpressionEditorY=-64
+      MaterialExpressionGuid=A83B6E2E4C16285FA9A2DF80F879C2D2
+      Material=Material'"MM_WoodBlockJR"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_2"
+      ParameterName="Textoors"
+      ExpressionGUID=5A5BA76741B5B0698498279D6A53CBD6
+      Group="Texturing"
+      Texture=Texture2D'"/Engine/EngineResources/Black.Black"'
+      MaterialExpressionEditorX=224
+      MaterialExpressionEditorY=-304
+      MaterialExpressionGuid=D5861EE04DF9FE935368B890CF39214F
+      Material=Material'"MM_WoodBlockJR"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_1"
+      ParameterName="Wood_Grain_Normal"
+      ExpressionGUID=8A6F40204B09243A629B3EB2F8706E1E
+      Group="Grain"
+      Coordinates=(Expression=MaterialExpressionMultiply'"MM_WoodBlockJR:MaterialExpressionMultiply_2"')
+      Texture=Texture2D'"/Game/WOOD_NORMAL.WOOD_NORMAL"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=416
+      MaterialExpressionEditorY=448
+      MaterialExpressionGuid=9BCD53D64F1410A4DFD188A87EF34CF7
+      Material=Material'"MM_WoodBlockJR"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_0"
+      ParameterName="Wood_Grain"
+      ExpressionGUID=AE28CBCE4687372374EF649F26C53DBC
+      Group="Grain"
+      Coordinates=(Expression=MaterialExpressionMultiply'"MM_WoodBlockJR:MaterialExpressionMultiply_2"')
+      Texture=Texture2D'"/Game/WOOD_REGULAR.WOOD_REGULAR"'
+      MaterialExpressionEditorX=112
+      MaterialExpressionEditorY=160
+      MaterialExpressionGuid=7B60433745651ABAA1603EA3D6531976
+      Material=Material'"MM_WoodBlockJR"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_0"
+      MaterialExpressionEditorX=-304
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=A6C3805A42AFBE4D89B3F5A00CFAE88E
+      Material=Material'"MM_WoodBlockJR"'
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_5"
+      DefaultValue=1.000000
+      ParameterName="TextCoordVTiling"
+      ExpressionGUID=814FC5F9411FFA2614787D89B7AE9DFE
+      Group="Tiling"
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=732B1F2B42938EEDD42AE1B14765B1F6
+      Material=Material'"MM_WoodBlockJR"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_4"
+      DefaultValue=1.000000
+      ParameterName="TextCoordUTiling"
+      ExpressionGUID=058B42CF49179B67A85647B14CF4637B
+      Group="Tiling"
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=732B1F2B42938EEDD42AE1B14765B1F6
+      Material=Material'"MM_WoodBlockJR"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_2"
+      DefaultValue=0.500000
+      ParameterName="Roughness"
+      ExpressionGUID=DFAE3B5249CBFDF00D2F3A927C674D9C
+      Group="PBR"
+      MaterialExpressionEditorX=432
+      MaterialExpressionEditorY=336
+      MaterialExpressionGuid=436B33944F8A20364683A8A8ADE065F1
+      Material=Material'"MM_WoodBlockJR"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1"
+      DefaultValue=0.500000
+      ParameterName="Specular"
+      ExpressionGUID=086C38434FFD13EC0B8E16B8E2570F43
+      Group="PBR"
+      MaterialExpressionEditorX=432
+      MaterialExpressionEditorY=256
+      MaterialExpressionGuid=436B33944F8A20364683A8A8ADE065F1
+      Material=Material'"MM_WoodBlockJR"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0"
+      ParameterName="Metallic"
+      ExpressionGUID=B0992C72450922351735538D78ADC731
+      Group="PBR"
+      MaterialExpressionEditorX=432
+      MaterialExpressionEditorY=176
+      MaterialExpressionGuid=436B33944F8A20364683A8A8ADE065F1
+      Material=Material'"MM_WoodBlockJR"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_2"
+      A=(Expression=MaterialExpressionTextureCoordinate'"MM_WoodBlockJR:MaterialExpressionTextureCoordinate_0"')
+      B=(Expression=MaterialExpressionAppendVector'"MM_WoodBlockJR:MaterialExpressionAppendVector_0"')
+      MaterialExpressionEditorX=-112
+      MaterialExpressionEditorY=384
+      MaterialExpressionGuid=C3627EFD4A8FA9FBF7C9C19CCEC30B62
+      Material=Material'"MM_WoodBlockJR"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionVectorParameter'"MM_WoodBlockJR:MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"MM_WoodBlockJR:MaterialExpressionTextureSampleParameter2D_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=480
+      MaterialExpressionGuid=323DF1A248ED62CBB58214B546797B60
+      Material=Material'"MM_WoodBlockJR"'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_0"
+      A=(Expression=MaterialExpressionScalarParameter'"MM_WoodBlockJR:MaterialExpressionScalarParameter_4"')
+      B=(Expression=MaterialExpressionScalarParameter'"MM_WoodBlockJR:MaterialExpressionScalarParameter_5"')
+      MaterialExpressionEditorX=-272
+      MaterialExpressionEditorY=448
+      MaterialExpressionGuid=916395D8408586078EA6A6A863758F88
+      Material=Material'"MM_WoodBlockJR"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"MM_WoodBlockJR:MaterialExpressionTextureSampleParameter2D_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionMultiply'"MM_WoodBlockJR:MaterialExpressionMultiply_0"')
+      MaterialExpressionEditorX=656
+      MaterialExpressionEditorY=-80
+      MaterialExpressionGuid=E029DB2B41B79EA4AC519EABA8257002
+      Material=Material'"MM_WoodBlockJR"'
+   End Object
+   BaseColor=(Expression=MaterialExpressionAdd'"MaterialExpressionAdd_0"')
+   Metallic=(Expression=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_0"')
+   Specular=(Expression=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_1"')
+   Roughness=(Expression=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_2"')
+   Normal=(Expression=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithStaticLighting=True
+   EditorX=672
+   EditorY=144
+   Expressions(0)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_0"'
+   Expressions(1)=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_0"'
+   Expressions(2)=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"'
+   Expressions(3)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_0"'
+   Expressions(4)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_1"'
+   Expressions(5)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_2"'
+   Expressions(6)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_1"'
+   Expressions(7)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_0"'
+   Expressions(8)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_4"'
+   Expressions(9)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_5"'
+   Expressions(10)=MaterialExpressionAppendVector'"MaterialExpressionAppendVector_0"'
+   Expressions(11)=MaterialExpressionMultiply'"MaterialExpressionMultiply_2"'
+   Expressions(12)=MaterialExpressionAdd'"MaterialExpressionAdd_0"'
+   Expressions(13)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_2"'
+   ParameterGroupData(0)=(GroupName="Grain")
+   ParameterGroupData(1)=(GroupName="Texturing")
+   ParameterGroupData(2)=(GroupName="PBR")
+   ParameterGroupData(3)=(GroupName="PBR")
+   ParameterGroupData(4)=(GroupName="PBR")
+   ParameterGroupData(5)=(GroupName="Grain")
+   ParameterGroupData(6)=(GroupName="Tiling")
+   ParameterGroupData(7)=(GroupName="Tiling")
+   ParameterGroupData(8)=(GroupName="Texturing")
+   bCanMaskedBeAssumedOpaque=True
+   StateId=684D335C464FE8B81FA4579E29D173AD
+   ReferencedTextureGuids(0)=E6B73E824B576EC71B30BA9C636D2BD2
+   ReferencedTextureGuids(2)=39BD4007469A0454DE0FE8B4EC01E8C3
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=85F6481347E7CA9F69CBD68F26185D3B
+End Object
