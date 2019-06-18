@@ -9650,3 +9650,261 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.18-14.52.28:179][527]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/StreetSceneLargeDE74B9CE4BB2B2517FA2A0B50FDF0171.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetSceneLarge.umap'
 [2019.06.18-14.52.28:211][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetSceneLarge_BuiltData" FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetSceneLarge_BuiltData.uasset" SILENT=true
 [2019.06.18-14.52.29:483][527]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/StreetSceneLarge_BuiltData80CE4ABA4B1C2E7C41404C9E338EDD57.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetSceneLarge_BuiltData.uasset'
+[2019.06.18-14.53.20:549][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (woodblock794)
+[2019.06.18-14.53.26:518][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-14.54.55:973][521]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-14.55.06:042][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-14.55.26:766][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (woodblock951)
+[2019.06.18-14.55.26:917][791]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-14.55.33:336][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-14.55.46:176][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (woodblock2002000677)
+[2019.06.18-14.55.46:327][456]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-14.55.55:162][915]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-14.56.08:234][174]Cmd: TRANSACTION UNDO
+[2019.06.18-14.56.08:234][174]LogEditorTransaction: Undo Move Actors
+[2019.06.18-14.56.09:852][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ArchInterior8)
+[2019.06.18-14.56.10:014][278]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-14.56.19:893][710]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-14.56.34:498][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (woodblock791)
+[2019.06.18-14.56.34:785][ 47]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-14.56.42:380][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-14.57.02:055][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (woodblock2002000773)
+[2019.06.18-14.57.02:207][ 15]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-14.57.24:194][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-14.57.39:077][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-14.57.58:679][225]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-14.58.13:953][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-15.00.37:783][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetSceneLarge" FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetSceneLarge.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.18-15.00.37:819][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.06.18-15.00.38:813][449]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/StreetSceneLarge79BB5FDA4CA9939A914B519E7F14B2B4.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetSceneLarge.umap'
+[2019.06.18-15.00.38:836][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetSceneLarge_BuiltData" FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetSceneLarge_BuiltData.uasset" SILENT=true
+[2019.06.18-15.00.39:831][449]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/StreetSceneLarge_BuiltData62F047E84D753682EEE5888E79135274.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetSceneLarge_BuiltData.uasset'
+[2019.06.18-15.00.44:071][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.06.18-15.00.45:926][663]LogSlate: Window 'Save Content' being destroyed
+[2019.06.18-15.00.45:951][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetBlocks/pCube14Mat" FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetBlocks/pCube14Mat.uasset" SILENT=true
+[2019.06.18-15.00.45:959][663]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/pCube14Mat6A0A54E145FD96150888C3BF047C1E31.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetBlocks/pCube14Mat.uasset'
+[2019.06.18-15.00.45:968][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetBlocks/pCube3Mat" FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetBlocks/pCube3Mat.uasset" SILENT=true
+[2019.06.18-15.00.45:978][663]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/pCube3Mat9B8056A4478C31A634309F9C1CA72934.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetBlocks/pCube3Mat.uasset'
+[2019.06.18-15.00.45:986][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetBlocks/pCube4Mat" FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetBlocks/pCube4Mat.uasset" SILENT=true
+[2019.06.18-15.00.45:994][663]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/pCube4MatDFF8907548D64C8DA4303CAB4AF1F0CF.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetBlocks/pCube4Mat.uasset'
+[2019.06.18-15.00.46:003][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetBlocks/pCube8Mat" FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetBlocks/pCube8Mat.uasset" SILENT=true
+[2019.06.18-15.00.46:011][663]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/pCube8MatBB13808048373E1ABE567680131D6972.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetBlocks/pCube8Mat.uasset'
+[2019.06.18-15.00.46:019][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetBlocks/pCylinder5Mat" FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetBlocks/pCylinder5Mat.uasset" SILENT=true
+[2019.06.18-15.00.46:027][663]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/pCylinder5Mat7B9FECBD45F56B18DA1784A35291E532.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/StreetBlocks/pCylinder5Mat.uasset'
+[2019.06.18-15.00.46:036][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/woodBlocksContent/M_Berries" FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/woodBlocksContent/M_Berries.uasset" SILENT=true
+[2019.06.18-15.00.46:050][663]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/M_Berries7C26D9D0400DBBB28C4C37993EECABA1.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/woodBlocksContent/M_Berries.uasset'
+[2019.06.18-15.00.46:061][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/woodBlocksContent/M_Castle" FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/woodBlocksContent/M_Castle.uasset" SILENT=true
+[2019.06.18-15.00.46:068][663]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/M_Castle07A296A1461DAA16CD2E80AD9D296759.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/woodBlocksContent/M_Castle.uasset'
+[2019.06.18-15.00.46:078][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/woodBlocksContent/M_Grass" FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/woodBlocksContent/M_Grass.uasset" SILENT=true
+[2019.06.18-15.00.46:085][663]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/M_GrassDCE6D7A54537949FC1F3E090915EEE2D.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/woodBlocksContent/M_Grass.uasset'
+[2019.06.18-15.00.46:094][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/woodBlocksContent/M_Leaves" FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/woodBlocksContent/M_Leaves.uasset" SILENT=true
+[2019.06.18-15.00.46:101][663]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/M_LeavesAC570DED46B0FDEA35E30DB3AE926B96.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/woodBlocksContent/M_Leaves.uasset'
+[2019.06.18-15.00.46:108][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/woodBlocksContent/M_Water" FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/woodBlocksContent/M_Water.uasset" SILENT=true
+[2019.06.18-15.00.46:116][663]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/M_WaterB6A2FE9240F09B723C45BFA5CE7A02A5.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/woodBlocksContent/M_Water.uasset'
+[2019.06.18-15.00.46:124][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/woodBlocksContent/Wood_texture_1" FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/woodBlocksContent/Wood_texture_1.uasset" SILENT=true
+[2019.06.18-15.00.46:154][663]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/Wood_texture_14EF917A0413AC841F7D4958731DDACE3.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/woodBlocksContent/Wood_texture_1.uasset'
+[2019.06.18-15.00.46:168][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/woodBlocksContent/wood_texture_2" FILE="C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/woodBlocksContent/wood_texture_2.uasset" SILENT=true
+[2019.06.18-15.00.46:208][663]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/wood_texture_27C44CB9D4FD4C3E06EEC7FA8C6C04E73.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/woodBlocksContent/wood_texture_2.uasset'
+[2019.06.18-15.00.46:245][663]LogSavePackage: Moving 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Saved/Wood_texture_2_2A218421B46828DDE431AACA3888104B5.tmp' to 'C:/Users/jamro/Documents/GitHub/EAE-Asset-Pipeline-Summer/CityBlock/Content/woodBlocksContent/Wood_texture_2_2.uasset'
+[2019.06.18-15.00.46:401][663]LogSlate: Window 'BaseCityBlock - Unreal Editor' being destroyed
+[2019.06.18-15.00.46:732][664]Cmd: QUIT_EDITOR
+[2019.06.18-15.00.47:134][664]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.18-15.00.47:212][664]LogExit: Preparing to exit.
+[2019.06.18-15.00.48:929][664]LogExit: Editor shut down
+[2019.06.18-15.00.48:930][664]LogExit: Transaction tracking system shut down
+[2019.06.18-15.00.51:407][664]LogExit: Object subsystem successfully closed.
+[2019.06.18-15.00.51:756][664]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.18-15.00.51:790][664]LogD3D11RHI: Shutdown
+[2019.06.18-15.00.51:790][664]LogD3D11RHI: CleanupD3DDevice
+[2019.06.18-15.00.51:866][664]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.18-15.00.51:866][664]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.18-15.00.51:882][664]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.18-15.00.51:882][664]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.18-15.00.51:882][664]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.18-15.00.51:882][664]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.18-15.00.52:100][664]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.18-15.00.54:337][664]LogModuleManager: Shutting down and abandoning module TextureEditor (648)
+[2019.06.18-15.00.54:338][664]LogModuleManager: Shutting down and abandoning module MeshBuilder (646)
+[2019.06.18-15.00.54:338][664]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.06.18-15.00.54:338][664]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.06.18-15.00.54:338][664]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.06.18-15.00.54:378][664]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.06.18-15.00.54:378][664]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.06.18-15.00.54:378][664]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.06.18-15.00.54:386][664]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2019.06.18-15.00.54:395][664]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.06.18-15.00.54:405][664]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.06.18-15.00.54:405][664]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.06.18-15.00.54:442][664]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.06.18-15.00.54:450][664]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.06.18-15.00.54:450][664]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.06.18-15.00.54:450][664]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.06.18-15.00.54:450][664]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.06.18-15.00.54:450][664]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.06.18-15.00.54:459][664]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.06.18-15.00.54:473][664]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.06.18-15.00.54:474][664]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.06.18-15.00.54:484][664]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.06.18-15.00.54:484][664]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.06.18-15.00.54:484][664]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.06.18-15.00.54:503][664]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.06.18-15.00.54:577][664]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.06.18-15.00.54:577][664]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.06.18-15.00.54:577][664]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.06.18-15.00.54:597][664]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.06.18-15.00.54:597][664]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.06.18-15.00.54:597][664]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.06.18-15.00.54:597][664]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.06.18-15.00.54:597][664]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.06.18-15.00.54:597][664]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.06.18-15.00.54:619][664]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.06.18-15.00.54:652][664]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.06.18-15.00.54:652][664]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.06.18-15.00.54:652][664]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.06.18-15.00.54:652][664]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.06.18-15.00.54:652][664]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.06.18-15.00.54:653][664]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.06.18-15.00.54:653][664]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.06.18-15.00.54:653][664]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.06.18-15.00.54:653][664]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.06.18-15.00.54:653][664]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.06.18-15.00.54:675][664]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.06.18-15.00.54:675][664]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.06.18-15.00.54:675][664]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.06.18-15.00.54:675][664]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.06.18-15.00.54:688][664]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.06.18-15.00.54:688][664]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.06.18-15.00.54:688][664]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.06.18-15.00.54:688][664]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.06.18-15.00.54:688][664]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.06.18-15.00.54:706][664]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.06.18-15.00.54:710][664]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.06.18-15.00.54:737][664]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.06.18-15.00.54:777][664]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.06.18-15.00.54:806][664]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.06.18-15.00.54:806][664]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.06.18-15.00.54:821][664]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.06.18-15.00.54:821][664]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.06.18-15.00.54:830][664]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.06.18-15.00.56:010][664]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.06.18-15.00.56:010][664]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.06.18-15.00.56:010][664]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.06.18-15.00.56:010][664]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.06.18-15.00.56:011][664]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.06.18-15.00.56:020][664]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.06.18-15.00.56:020][664]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.06.18-15.00.56:037][664]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.06.18-15.00.56:053][664]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.06.18-15.00.56:053][664]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.06.18-15.00.56:053][664]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.06.18-15.00.56:067][664]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.06.18-15.00.56:074][664]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.06.18-15.00.56:084][664]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.06.18-15.00.56:084][664]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.06.18-15.00.56:100][664]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.06.18-15.00.56:109][664]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.06.18-15.00.56:119][664]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.06.18-15.00.56:127][664]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.06.18-15.00.56:141][664]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.06.18-15.00.56:149][664]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.06.18-15.00.56:158][664]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.06.18-15.00.56:173][664]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.06.18-15.00.56:218][664]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.06.18-15.00.56:240][664]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.06.18-15.00.56:257][664]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.06.18-15.00.56:278][664]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.06.18-15.00.56:278][664]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.06.18-15.00.56:289][664]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.06.18-15.00.56:290][664]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.06.18-15.00.56:316][664]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.06.18-15.00.56:345][664]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.06.18-15.00.56:345][664]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.06.18-15.00.56:345][664]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.06.18-15.00.56:377][664]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.06.18-15.00.56:410][664]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.06.18-15.00.56:410][664]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.06.18-15.00.56:410][664]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.06.18-15.00.56:423][664]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.06.18-15.00.56:443][664]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.06.18-15.00.56:443][664]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.06.18-15.00.56:449][664]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.06.18-15.00.56:449][664]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.06.18-15.00.56:456][664]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.06.18-15.00.56:456][664]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.06.18-15.00.56:456][664]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.06.18-15.00.56:466][664]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.06.18-15.00.56:493][664]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.06.18-15.00.56:493][664]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.06.18-15.00.56:493][664]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.06.18-15.00.56:493][664]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.06.18-15.00.56:493][664]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.06.18-15.00.56:493][664]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.06.18-15.00.56:514][664]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.06.18-15.00.56:515][664]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.06.18-15.00.56:523][664]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.06.18-15.00.56:523][664]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.06.18-15.00.56:530][664]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.06.18-15.00.56:535][664]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.06.18-15.00.56:667][664]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.06.18-15.00.56:677][664]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.06.18-15.00.56:677][664]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.06.18-15.00.56:684][664]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.06.18-15.00.56:684][664]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.06.18-15.00.56:684][664]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.06.18-15.00.56:684][664]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.06.18-15.00.56:684][664]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.06.18-15.00.56:698][664]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.06.18-15.00.56:698][664]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.06.18-15.00.56:698][664]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.06.18-15.00.56:698][664]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.06.18-15.00.56:698][664]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.06.18-15.00.56:698][664]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.06.18-15.00.56:708][664]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.06.18-15.00.56:713][664]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.06.18-15.00.56:713][664]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.06.18-15.00.56:713][664]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.06.18-15.00.56:713][664]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.06.18-15.00.56:713][664]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.06.18-15.00.56:723][664]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.06.18-15.00.56:737][664]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.06.18-15.00.56:737][664]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.06.18-15.00.56:737][664]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.06.18-15.00.56:737][664]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.06.18-15.00.56:750][664]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.06.18-15.00.56:750][664]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.06.18-15.00.56:750][664]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.06.18-15.00.56:750][664]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.06.18-15.00.56:750][664]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.06.18-15.00.56:758][664]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.06.18-15.00.56:758][664]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.06.18-15.00.56:758][664]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.06.18-15.00.56:758][664]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.06.18-15.00.56:766][664]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.06.18-15.00.56:766][664]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.06.18-15.00.56:780][664]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.06.18-15.00.56:795][664]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.06.18-15.00.56:807][664]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.06.18-15.00.56:808][664]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.06.18-15.00.56:808][664]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.06.18-15.00.56:832][664]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.06.18-15.00.56:832][664]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.06.18-15.00.56:832][664]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.06.18-15.00.56:857][664]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.06.18-15.00.56:880][664]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.06.18-15.00.56:889][664]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.06.18-15.00.56:897][664]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.06.18-15.00.56:897][664]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.06.18-15.00.56:897][664]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.06.18-15.00.56:897][664]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.06.18-15.00.56:897][664]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.06.18-15.00.56:910][664]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.06.18-15.00.56:910][664]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.06.18-15.00.56:910][664]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.06.18-15.00.56:953][664]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.06.18-15.00.56:953][664]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.06.18-15.00.56:953][664]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.06.18-15.00.56:953][664]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.06.18-15.00.56:953][664]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.06.18-15.00.56:953][664]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.18-15.00.56:953][664]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.18-15.00.57:055][664]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
